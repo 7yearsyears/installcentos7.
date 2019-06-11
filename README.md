@@ -1,5 +1,5 @@
 # installcentos7.
-下载SHELL脚本（通过root用户运行） wget -N --no-check-certificate https://github.com/7yearsyears/installcentos7./Network-Reinstall-System-Modify.sh && chmod a+x Network-Reinstall-System-Modify.sh 复制代码
+下载SHELL脚本（通过root用户运行） wget -N --no-check-certificate https://github.com/7yearsyears/installcentos7./blob/master/Network-Reinstall-System-Modify.sh && chmod a+x Network-Reinstall-System-Modify.sh 复制代码
 
 安装系统（任选其一）需要其他系统和反馈问题请去博客。本贴只回复和宝塔使用相关的问题。(不一定经常在线)
 
